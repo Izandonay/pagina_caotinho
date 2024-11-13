@@ -70,7 +70,7 @@
     justify-content: space-around;
     }
     .hotel{
-    background-image: linear-gradient(#40A2E3,#7FC2EF);
+    background-image: linear-gradient(#EEEE14,#3559E0);
     color: white;
     display: flex;
     justify-content:center;
@@ -78,7 +78,7 @@
     text-align:center;
     display:block;
     }
-    .hotel-titulo{
+    .-titulo{
     padding: 50px;
     text-align: center;
     }
