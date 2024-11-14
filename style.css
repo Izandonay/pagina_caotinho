@@ -25,7 +25,8 @@
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    }
+    background-color: #EEEE14   
+}
     .titulo_site{
     padding: 50px;
     text-align: center;
