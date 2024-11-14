@@ -24,9 +24,8 @@
     width: 10%;
     display: flex;
     justify-content: flex-start;
-    align-items: center;
-    background-color: #EEEE14   
-}
+    align-items: center;   
+    }
     .titulo_site{
     padding: 50px;
     text-align: center;
@@ -42,6 +41,8 @@
     .banner1{
     display: flex;
     justify-content: center;
+    background-color: #EEEE14
+    
     }
     .introdução{
     padding: 50px;
