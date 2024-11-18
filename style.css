@@ -75,7 +75,8 @@
     justify-content: space-around;
     }
     .hotel{
-    background-image: linear-gradient(#EEEE14,#3559E0);
+    background-image: linear-gradient,#3559E0
+    );
     color: white;
     display: flex;
     justify-content:center;
@@ -90,8 +91,8 @@
     .logo_rodape{
     height: 80px;
     padding: 12px 0;
+    background-color: #3559E0
 
-    
     }
     
     .link{
