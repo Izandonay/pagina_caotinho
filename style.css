@@ -47,7 +47,9 @@
     .introdução{
     padding: 50px;
     text-align: center;
-    
+    background-color: #3559E0
+
+
     }
     .estudante-nome{
     text-align: center;
@@ -88,10 +90,11 @@
     .logo_rodape{
     height: 80px;
     padding: 12px 0;
+
     
     }
     
     .link{
-    color: #ffffff;
+    color: #162FAF;
     text-decoration: none;
     }
