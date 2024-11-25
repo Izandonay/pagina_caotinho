@@ -7,8 +7,7 @@
     font-family: "Poppins", sans-serif;
     }
     header{
-    background-color: #FF4191
-    ;
+    background-color: #FF4191;
     color: white;
     width: 100%;
     padding: 20px;
@@ -24,7 +23,7 @@
     width: 10%;
     display: flex;
     justify-content: flex-start;
-    align-items: center;   
+    align-items: center;
     }
     .titulo_site{
     padding: 50px;
@@ -41,42 +40,37 @@
     .banner1{
     display: flex;
     justify-content: center;
-    background-color: #EEEE14
-    
     }
-    .introdução{
+    .estudante_titulo{
     padding: 50px;
     text-align: center;
-    background-color: #3559E0
-
-
+    
     }
     .estudante-nome{
     text-align: center;
     }
-    .imagem{
+    .estudante-imagem{
     width: 120px;
     }
-    .icone{
+    .estudante-icone{
     width: 38px;
     padding: 4px 8px;
     }
-    .cachorro{
+    .estudante{
     background-image: background-color(#faae43);
     padding: 24px 0;
     }
     
-    ..div{
+    .estudante.div{
     text-align: center;
     padding: 24px 0;
     }
-    .cachorro_todos{
+    .estudantes_todos{
     display: flex;
     justify-content: space-around;
     }
-    .hotel{
-    background-image: linear-gradient,#3559E0
-    );
+    .escola{
+    background-image: linear-gradient(#40A2E3,#7FC2EF);
     color: white;
     display: flex;
     justify-content:center;
@@ -84,18 +78,17 @@
     text-align:center;
     display:block;
     }
-    .-titulo{
+    .escola-titulo{
     padding: 50px;
     text-align: center;
     }
     .logo_rodape{
     height: 80px;
     padding: 12px 0;
-    background-color: #3559E0
-
+    
     }
     
     .link{
-    color: #162FAF;
+    color: #ffffff;
     text-decoration: none;
     }
